@@ -1,5 +1,5 @@
 {
-  "name": "react-file-input",
+  "name": "react-file-input-fork",
   "version": "0.2.5",
   "description": "Simple file input component for React",
   "main": "./lib",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/captivationsoftware/react-file-input"
+    "url": "https://github.com/blushi/react-file-input"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/captivationsoftware/react-file-input/issues"
+    "url": "https://github.com/blushi/react-file-input/issues"
   },
-  "homepage": "https://github.com/captivationsoftware/react-file-input",
+  "homepage": "https://github.com/blushi/react-file-input",
   "peerDependencies": {
     "react": "^15.2.1"
   }
